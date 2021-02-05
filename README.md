@@ -1,6 +1,12 @@
-Pour l'admin : 
-    Email : admin@admin.com
-    Password : 12345678
-Pour le caisier : 
-    Email : Nancy@gmail.com
-    Password : 12345678
+<ul>
+    <ul>
+        Admin
+        <li>Email : admin@admin.com</li>
+        <li>Password : 12345678</li>
+    </ul> 
+    <ul>
+        Caisier
+        <li>Email : Nancy@gmail.com</li>
+        <li>Password : 12345678</li>
+    </ul> 
+</ul>
